@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58e2458c.css",
+    "main.js": "/static/js/main.e795d896.js",
+    "static/js/787.880c8bdc.chunk.js": "/static/js/787.880c8bdc.chunk.js",
+    "static/media/about-us.png": "/static/media/about-us.b2d2a7e753a735e34005.png",
+    "static/media/frozen.png": "/static/media/frozen.5f74bc9b504174289a3c.png",
+    "static/media/pm.png": "/static/media/pm.fee1edb49253df2bb740.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/sea-food-1.jpeg": "/static/media/sea-food-1.3a511c71e1f9fd1a6ddb.jpeg",
+    "static/media/fruits-1.jpeg": "/static/media/fruits-1.f3ec79e5eb5aef5b5f7f.jpeg",
+    "static/media/log-2.jpeg": "/static/media/log-2.65c5a76014aa08a97f9e.jpeg",
+    "static/media/sea-food-3.jpeg": "/static/media/sea-food-3.0546d1a4c9263eb61bbf.jpeg",
+    "static/media/fruits-2.jpeg": "/static/media/fruits-2.6f024758125490831d52.jpeg",
+    "static/media/hero-img.png": "/static/media/hero-img.1ffb4b1366632292e7f7.png",
+    "static/media/fab.jpg": "/static/media/fab.1a99173815603194feed.jpg",
+    "static/media/sea-food-2.jpeg": "/static/media/sea-food-2.4c22d31c19d8031226c7.jpeg",
+    "static/media/mach.jpeg": "/static/media/mach.779e4393d1ffd64b6e3c.jpeg",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.58e2458c.css.map": "/static/css/main.58e2458c.css.map",
+    "main.e795d896.js.map": "/static/js/main.e795d896.js.map",
+    "787.880c8bdc.chunk.js.map": "/static/js/787.880c8bdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e2458c.css",
+    "static/js/main.e795d896.js"
+  ]
+}

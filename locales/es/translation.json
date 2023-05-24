@@ -1,0 +1,89 @@
+{
+  "home": "Inicio",
+  "about": "Acerca de",
+  "services": "Servicios",
+  "portfolio": "Portafolio",
+  "contact": "Contacto",
+  "welcome": "Bienvenido",
+  "welcome-text": "Adéntrate en nuestra vibrante comunidad, donde tus ideas florecen y el crecimiento no conoce límites. Únete a nosotros hoy y emprende un viaje notable de colaboración, innovación y éxito.",
+  "trading-expertise": "Experiencia en comercio",
+  "friendly-customer": "Servicio al cliente amigable",
+  "pt": "Equipo personal",
+  "pm": "Gestión de propiedades",
+  "lang-select": "Selección de idioma",
+  "about-us": {
+    "title": "Sobre nosotros",
+    "about-us-intro": "Como tu valioso colaborador comercial, V V&F opera a escala global, especializándose en una amplia gama de maquinaria pesada, tejidos y productos alimenticios, incluyendo frutas, verduras, productos congelados y gestión de propiedades. Nuestro objetivo principal es facilitar el descubrimiento de requisitos comerciales que se alineen perfectamente con tus objetivos comerciales. A través de nuestra extensa red, establecemos conexiones con empresas que te permiten aprovechar al máximo los numerosos beneficios ofrecidos por nuestros excepcionales servicios.",
+    "sub-title": "Atendiendo aproximadamente a más de 70 países en Asia y Europa",
+    "intro-2": "Nuestra misión.",
+    "intro-2-sub-heading": "En V V&F, nos dedicamos a importar las mejores verduras asiáticas/indias y frutas frescas tropicales, asegurando que se cumplan las demandas de nuestros clientes al tiempo que generamos beneficios sostenibles para ellos, nuestro equipo y nuestros asociados. Nuestro compromiso con la calidad nos impulsa a obtener productos y productos de proveedores confiables, manteniendo estándares óptimos de calidad e higiene durante todo el proceso, desde el cultivo hasta la exportación.",
+    "intro-2-p-1": "Proporcionar suministro constante y entrega puntual para cumplir con los requisitos del cliente.",
+    "intro-2-p-2": "Responder a las necesidades del cliente con un servicio personal y flexible.",
+    "intro-2-p-3": "Hacer hincapié en la credibilidad, la confianza y la confianza en ambas direcciones con los clientes.",
+    "intro-2-p-4": "Ir más allá para garantizar la satisfacción del cliente en términos de productos y trato.",
+    "intro-1": "Nuestros valores.",
+    "intro-1-sub-heading": "En V V&F, la satisfacción del cliente está en el centro de nuestros esfuerzos continuos de mejora e innovación. Nos dedicamos a poner a nuestros clientes primero, creando un ambiente cálido y atento donde la comida excepcional y el servicio se entrecruzan sin problemas.",
+    "intro-sub-heading-1": "A través de la toma de decisiones estratégicas, ofrecemos productos de alta calidad a precios competitivos, asegurando que los deseos de nuestros clientes se cumplan de manera rápida y eficiente. Nuestros valores trascienden las palabras; sirven como nuestros principios rectores, moldeando nuestra visión, midiendo nuestro éxito y definiendo cómo interactuamos y nos tratamos mutuamente.",
+    "intro-3": "Nuestra visión.",
+    "intro-3-sub-heading": "En V V&F, nuestro objetivo es establecernos como la empresa líder en la distribución de verduras asiáticas/indias de la más alta calidad y frutas frescas tropicales. Nos esforzamos por lograr esto a través de la innovación continua, la credibilidad inquebrantable, la puntualidad y los precios competitivos, estableciendo un nuevo estándar en la industria.",
+    "intro-3-p-1-bold": "Integridad y ética:",
+    "intro-3-p-1": "Mantenemos los más altos estándares de integridad y ética en todos los aspectos de nuestro negocio. Nuestro compromiso con la transparencia y la honestidad guía nuestras interacciones con clientes, empleados y partes interesadas, fomentando la confianza y las relaciones a largo plazo.",
+    "intro-3-p-2-bold": "Enfoque al cliente:",
+    "intro-3-p-2": "Priorizamos comprender y satisfacer las necesidades únicas de nuestros clientes. Con una dedicación inquebrantable, nos esforzamos por ofrecer productos y servicios de alta calidad que no solo cumplan, sino que superen sus expectativas, asegurando su satisfacción y lealtad.",
+    "intro-3-p-3-bold": "Trabajo en equipo y colaboración:",
+    "intro-3-p-3": "Creemos firmemente en el poder del trabajo en equipo y la colaboración. Trabajando juntos de manera armoniosa, aprovechamos las fortalezas y la experiencia colectiva de nuestro equipo para alcanzar nuestros objetivos compartidos. A través de una colaboración efectiva, impulsamos la innovación, la eficiencia y el éxito tanto para nuestra empresa como para nuestros clientes."
+  },
+  "our-services": {
+    "title": "Nuestros servicios",
+    "pm": {
+      "title": "Gestión de propiedades",
+      "body": "Ayudamos a nuestros clientes en la gestión de propiedades mediante la prestación de servicios integrales para maximizar el valor y la rentabilidad de sus propiedades. Desde la comercialización de la propiedad hasta la búsqueda de inquilinos adecuados y la finalización de contratos de arrendamiento, nos encargamos de todo el proceso de manera eficiente. Además, ofrecemos experiencia en la gestión logística, asegurando operaciones y mantenimiento sin problemas a través de nuestra red confiable de socios. Con nuestro apoyo dedicado, puedes confiar tu propiedad a nosotros, sabiendo que brindaremos soluciones excepcionales de gestión adaptadas a tus necesidades."
+    },
+    "f.v": {
+      "title": "Frutas y verduras",
+      "body": "En el ámbito de las frutas y verduras, nos destacamos en ayudar a nuestros clientes a comercializar sus productos, facilitar el descubrimiento de compradores y facilitar ventas exitosas. Además, brindamos un valioso apoyo en la gestión de los requisitos logísticos al aprovechar nuestra amplia red de socios confiables. Con nuestros servicios integrales, puedes navegar con confianza en el mercado, optimizar tus operaciones y lograr resultados favorables para tu negocio."
+    },
+    "f.f": {
+      "title": "Alimentos congelados",
+      "body": "En el ámbito de los alimentos congelados, nos dedicamos a utilizar tecnología de vanguardia y cumplir con los estándares de la industria para cumplir con los requisitos especializados en este sector. Nuestra experiencia se extiende a una amplia gama de alimentos congelados, asegurando que cumplamos con los más altos estándares de calidad mientras mantenemos la integridad del producto. Con nuestro compromiso con la excelencia, puedes confiar en nosotros para brindarte soluciones excepcionales de alimentos congelados que satisfagan tus necesidades específicas."
+    },
+    "s.f": {
+      "title": "Productos del mar y carne",
+      "body": "En el ámbito de los productos del mar y la carne, nos especializamos en el comercio de selecciones premium que son frescas, seguras y limpias. Nuestro compromiso con la calidad asegura que entreguemos los mejores productos del mar y carne disponibles en el mercado. Confía en nosotros para brindarte una calidad excepcional, permitiéndote disfrutar de lo mejor que el mar y la tierra tienen para ofrecer."
+    },
+    "logistics": {
+      "title": "Logística",
+      "body": "En el ámbito de la logística, somos tu socio de confianza en la entrega de una amplia gama de productos en todo el mundo. Desde productos alimenticios y productos químicos hasta productos de ingeniería, documentos, prendas de vestir, petróleo, medicamentos y diversas otras mercancías, ofrecemos soluciones logísticas integrales adaptadas a tus necesidades específicas. Con nuestra experiencia y red global, puedes confiar en nosotros para garantizar el transporte sin problemas y eficiente de tus productos a cualquier destino del mundo."
+    },
+    "f.t": {
+      "title": "Comercio de telas",
+      "body": "En el ámbito del comercio de telas, nos especializamos tanto en importación como en exportación de telas y productos textiles, que abarcan una amplia gama de materias primas y productos terminados. Nuestra experiencia radica en facilitar transacciones sin problemas y brindar soluciones integrales para satisfacer tus necesidades de obtención y comercio de telas. Ya sea que necesites materias primas de alta calidad o productos textiles terminados, te cubrimos, asegurando servicios de comercio de telas confiables y eficientes."
+    },
+    "h.m": {
+      "title": "Maquinaria pesada",
+      "body": "En el ámbito de la maquinaria pesada, atendemos a una amplia gama de industrias con requisitos especializados, que incluyen construcción, agricultura, silvicultura, manipulación de materiales, transporte y más. Nuestra amplia gama de productos y soluciones de maquinaria pesada está diseñada para satisfacer las necesidades únicas de cada industria, asegurando un rendimiento y eficiencia óptimos. Ya sea que necesites maquinaria para proyectos de construcción, operaciones agrícolas, actividades forestales o tareas de manipulación de materiales, tenemos la experiencia y los recursos para proporcionarte soluciones de maquinaria pesada de calidad."
+    }
+  },
+  "p-title": "Frutas y verduras, Gestión de propiedades, Alimentos congelados, Maquinaria pesada, Logística y Comercio de tejidos son nuestro enfoque principal. Tenemos una sólida presencia en estas industrias; por lo tanto, podemos generar un impacto incluso con un capital limitado.",
+  "contact-us": "Contáctenos",
+  "contact-section": {
+    "title": "¡Déjanos tu consulta o simplemente di hola!",
+    "name": "Nombre",
+    "email": "Tu correo electrónico",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "send-message": "Enviar mensaje",
+    "location": "Ubicación",
+    "email-us": "Correo electrónico",
+    "call": "Llamar",
+    "open-hr": "Horario de apertura"
+  },
+  "footer": {
+    "privacy-policy": "Política de privacidad",
+    "terms-conditions": "Términos y condiciones",
+    "all-rights": "Reservados todos los derechos."
+  },
+  "loading": "Cargando",
+  "message-sent": "Su mensaje ha sido enviado. ¡Gracias!",
+  "b-o": "Resumen del negocio"
+}

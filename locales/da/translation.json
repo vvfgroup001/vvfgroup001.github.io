@@ -1,0 +1,89 @@
+{
+  "home": "Hjem",
+  "about": "Om os",
+  "services": "Services",
+  "portfolio": "Portefølje",
+  "contact": "Kontakt",
+  "welcome": "Velkommen",
+  "welcome-text": "Træd ind i vores levende fællesskab, hvor dine idéer blomstrer, og væksten kender ingen grænser. Deltag i dag og begynd en bemærkelsesværdig rejse med samarbejde, innovation og succes.",
+  "trading-expertise": "Handelsekspertise",
+  "friendly-customer": "Venlig kundeservice",
+  "pt": "Personligt team",
+  "pm": "Ejendomsadministration",
+  "lang-select": "Sprogvalg",
+  "about-us": {
+    "title": "Om os",
+    "about-us-intro": "Som din værdsatte forretningspartner opererer V V&F på globalt plan og specialiserer sig i et bredt udvalg af tungt maskineri, stoffer og fødevarer, herunder frugt, grøntsager, frosne produkter og ejendomsadministration. Vores primære mål er at lette opdagelsen af handelskrav, der problemfrit harmonerer med dine forretningsmål. Gennem vores omfattende netværk etablerer vi forbindelser med virksomheder, der giver dig mulighed for fuldt ud at udnytte de mange fordele, vores exceptionelle services tilbyder.",
+    "sub-title": "Tilgodeser ca. 70+ lande i Asien og Europa",
+    "intro-2": "Vores mission.",
+    "intro-2-sub-heading": "Hos V V&F er vi dedikeret til at importere de fineste asiatiske/indiske grøntsager og tropiske friske frugter og samtidig opfylde vores kunders krav og generere bæredygtige fordele for dem, vores team og vores samarbejdspartnere. Vores forpligtelse til kvalitet driver os til at kilde produkter og produktion fra betroede leverandører og opretholde optimale standarder for kvalitet og hygiejne i hele processen, fra dyrkning til eksport.",
+    "intro-2-p-1": "Sørge for konstant forsyning og rettidig levering for at imødekomme kundebehov.",
+    "intro-2-p-2": "Reagere på kundens behov med en personlig og fleksibel service.",
+    "intro-2-p-3": "Vægtlægge troværdighed, tillid og tillid i begge retninger med kunder.",
+    "intro-2-p-4": "Gøre alt for at sikre kundetilfredshed med hensyn til produkter og behandling.",
+    "intro-1": "Vores værdier.",
+    "intro-1-sub-heading": "Hos V V&F er kundetilfredshed kernen i vores kontinuerlige forbedrings- og innovationsindsats. Vi er dedikeret til at sætte vores kunder først, skabe en varm og opmærksom atmosfære, hvor enestående mad og service smelter sammen sømløst.",
+    "intro-sub-heading-1": "Gennem strategisk beslutningstagning tilbyder vi produkter af høj kvalitet til konkurrencedygtige priser og sikrer, at vores kunders ønsker opfyldes hurtigt og effektivt. Vores værdier transcenderer blot ord; de fungerer som vores retningslinjer, former vores vision, måler vores succes og definerer, hvordan vi interagerer og behandler hinanden.",
+    "intro-3": "Vores vision.",
+    "intro-3-sub-heading": "Hos V V&F er vores mål at etablere os som det førende firma inden for distributionen af de højeste kvalitets asiatiske/indiske grøntsager og tropiske friske frugter. Vi stræber efter at opnå dette gennem kontinuerlig innovation, ubetinget troværdighed, punktlighed og konkurrencedygtige priser og sætte en ny standard i branchen.",
+    "intro-3-p-1-bold": "Integritet og etik:",
+    "intro-3-p-1": "Vi opretholder de højeste standarder for integritet og etik i enhver aspekt af vores forretning. Vores forpligtelse til gennemsigtighed og ærlighed guider vores interaktioner med kunder, medarbejdere og interessenter og fremmer tillid og langvarige relationer.",
+    "intro-3-p-2-bold": "Fokus på kunden:",
+    "intro-3-p-2": "Vi prioriterer at forstå og opfylde vores kunders unikke behov. Med ubetinget dedikation går vi langt ud over for at levere produkter og tjenester af høj kvalitet, der ikke kun opfylder, men overstiger deres forventninger og sikrer deres tilfredshed og loyalitet.",
+    "intro-3-p-3-bold": "Teamarbejde og samarbejde:",
+    "intro-3-p-3": "Vi tror på styrken ved teamwork og samarbejde. Ved at arbejde sammen harmonisk udnytter vi vores teams fælles styrker og ekspertise til at nå vores fælles mål. Gennem effektivt samarbejde driver vi innovation, effektivitet og succes for vores virksomhed og kunder."
+  },
+  "our-services": {
+    "title": "Vores Services",
+    "pm": {
+      "title": "Ejendomsadministration",
+      "body": "Vi hjælper vores klienter med ejendomsadministration ved at tilbyde omfattende services til at maksimere ejendommens værdi og indtjeningsevne. Fra markedsføring af ejendommen til at finde egnede lejere og afslutte lejekontrakter håndterer vi hele processen effektivt. Derudover tilbyder vi ekspertise inden for logistikstyring, der sikrer problemfri drift og vedligeholdelse gennem vores betroede netværk af partnere. Med vores dedikerede support kan du betro os din ejendom med visheden om, at vi leverer enestående administrationsløsninger, der er skræddersyet til dine behov."
+    },
+    "f.v": {
+      "title": "Frugt & Grøntsager",
+      "body": "På frugt- og grøntsagsområdet er vi eksperter i at hjælpe vores klienter med at markedsføre deres produkter, lette opdagelsen af købere og facilitere succesrige salg. Derudover yder vi værdifuld støtte til at håndtere logistikkrav ved at udnytte vores omfattende netværk af pålidelige partnere. Med vores omfattende services kan du med tillid navigere på markedet, optimere dine operationer og opnå favorable resultater for din virksomhed."
+    },
+    "f.f": {
+      "title": "Frostvarer",
+      "body": "På frostvareområdet er vi dedikerede til at bruge banebrydende teknologi og overholde branchestandarder for at opfylde specialiserede krav inden for denne sektor. Vores ekspertise dækker et bredt udvalg af frosne fødevarer og sikrer, at vi opfylder de højeste kvalitetsstandarder samtidig med at vi opretholder produktets integritet. Med vores engagement i kvalitet kan du stole på, at vi leverer enestående frostvareløsninger, der opfylder dine specifikke behov."
+    },
+    "s.f": {
+      "title": "Fisk og kødprodukter",
+      "body": "På området for fisk og kødprodukter specialiserer vi os i handel med førsteklasses produkter, der er friske, sikre og rene. Vores engagement i kvalitet sikrer, at vi leverer de fineste fisk og kødprodukter, der er tilgængelige på markedet. Du kan stole på os til at give dig enestående kvalitet og nyde det bedste, havet og landet har at tilbyde."
+    },
+    "logistics": {
+      "title": "Logistik",
+      "body": "På logistikområdet er vi din betroede partner i levering af en bred vifte af varer over hele verden. Fra fødevarer og kemikalier til ingeniørgoder, dokumenter, tøj, olie, medicin og forskellige andre varer tilbyder vi omfattende logistikløsninger, der er skræddersyet til dine specifikke behov. Med vores ekspertise og globale netværk kan du stole på os til at sikre problemfri og effektiv transport af dine varer til enhver destination på verdensplan."
+    },
+    "f.t": {
+      "title": "Stofhandel",
+      "body": "På stofhandelsområdet specialiserer vi os både i import og eksport af stoffer og tekstilprodukter og omfatter en bred vifte af råvarer og færdige produkter. Vores omfattende kendskab til markedet og vores forbindelser til pålidelige leverandører sikrer, at vi leverer førsteklasses stofprodukter, der opfylder dine specifikke krav. Uanset om det er tøj, hjemmetekstiler eller industrielle materialer, kan du regne med os til at facilitere din handel på en pålidelig og effektiv måde."
+    },
+    "h.m": {
+      "title": "Tungt Maskineri",
+      "body": "Inden for tungt maskineri betjener vi en bred vifte af industrier med specialiserede krav, herunder byggeri, landbrug, skovbrug, materialehåndtering, transport og mere. Vores omfattende udvalg af produkter og løsninger inden for tungt maskineri er designet til at imødekomme hver branches unikke behov og sikre optimal ydeevne og effektivitet. Uanset om du har brug for maskiner til byggeprojekter, landbrugsoperationer, skovbrugsaktiviteter eller materialehåndteringsopgaver, har vi ekspertisen og ressourcerne til at levere pålidelige og kvalitetsmæssige løsninger inden for tungt maskineri."
+    }
+  },
+  "p-title": "Frugt & Grøntsager, Ejendomsadministration, Frostvarer, Tungt Maskineri, Logistik og Stofhandel er vores primære fokusområder. Vi har en stærk position inden for disse brancher, og derfor kan vi gøre en forskel selv med begrænset kapital.",
+  "contact-us": "Kontakt os",
+  "contact-section": {
+    "title": "Send os din forespørgsel eller sig bare hej!",
+    "name": "Navn",
+    "email": "Din e-mail",
+    "subject": "Emne",
+    "message": "Besked",
+    "send-message": "Send Besked",
+    "location": "Placering",
+    "email-us": "E-mail",
+    "call": "Ring",
+    "open-hr": "Åbningstider"
+  },
+  "footer": {
+    "privacy-policy": "Fortrolighedspolitik",
+    "terms-conditions": "Vilkår og betingelser",
+    "all-rights": "Alle rettigheder forbeholdes."
+  },
+  "loading": "Indlæser",
+  "message-sent": "Din besked er blevet sendt. Tak!",
+  "b-o": "Bedrijfsoverzicht"
+}

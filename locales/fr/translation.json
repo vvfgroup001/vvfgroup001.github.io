@@ -1,0 +1,89 @@
+{
+  "home": "Accueil",
+  "about": "À propos",
+  "services": "Services",
+  "portfolio": "Portfolio",
+  "contact": "Contact",
+  "welcome": "Bienvenue",
+  "welcome-text": "Entrez dans notre communauté dynamique où vos idées s'épanouissent et où la croissance ne connaît aucune limite. Rejoignez-nous dès aujourd'hui et embarquez pour un voyage remarquable de collaboration, d'innovation et de réussite.",
+  "trading-expertise": "Expertise en commerce",
+  "friendly-customer": "Service client convivial",
+  "pt": "Équipe personnelle",
+  "pm": "Gestion immobilière",
+  "lang-select": "Sélection de la langue",
+  "about-us": {
+    "title": "À propos de nous",
+    "about-us-intro": "En tant que votre collaborateur commercial précieux, V V&F opère à l'échelle mondiale, se spécialisant dans un large éventail de machines lourdes, de tissus et de produits alimentaires, y compris les fruits, les légumes, les produits surgelés et la gestion immobilière. Notre objectif principal est de faciliter la découverte des exigences commerciales qui s'alignent parfaitement sur vos objectifs commerciaux. Grâce à notre vaste réseau, nous établissons des liens avec des entreprises qui vous permettent de tirer pleinement parti des nombreux avantages offerts par nos services exceptionnels.",
+    "sub-title": "Nous desservons environ 70+ pays en Asie et en Europe",
+    "intro-2": "Notre mission.",
+    "intro-2-sub-heading": "Chez V V&F, nous nous engageons à importer les meilleurs légumes asiatiques/indiens et les fruits tropicaux frais, en veillant à ce que les demandes de nos clients soient satisfaites tout en générant des avantages durables pour eux, notre équipe et nos associés. Notre engagement envers la qualité nous pousse à sourcer des produits et des produits issus de fournisseurs de confiance, en maintenant des normes optimales de qualité et d'hygiène tout au long du processus, de la culture à l'exportation.",
+    "intro-2-p-1": "Fournir un approvisionnement constant et une livraison ponctuelle pour répondre aux exigences des clients.",
+    "intro-2-p-2": "Répondre aux besoins des clients avec un service personnalisé et flexible.",
+    "intro-2-p-3": "Mettre l'accent sur la crédibilité, la confiance et la confiance dans les deux sens avec les clients.",
+    "intro-2-p-4": "Dépasser les attentes des clients en termes de produits et de traitement pour assurer leur satisfaction.",
+    "intro-1": "Nos valeurs.",
+    "intro-1-sub-heading": "Chez V V&F, la satisfaction des clients est au cœur de nos efforts continus d'amélioration et d'innovation. Nous sommes dévoués à placer nos clients au premier plan, en créant un environnement chaleureux et attentif où une nourriture et un service exceptionnels se rejoignent parfaitement.",
+    "intro-sub-heading-1": "Grâce à une prise de décision stratégique, nous proposons des produits de haute qualité à des prix compétitifs, en veillant à ce que les désirs de nos clients soient satisfaits rapidement et efficacement. Nos valeurs dépassent de simples mots ; elles servent de principes directeurs, façonnant notre vision, mesurant notre succès et définissant notre manière d'interagir et de traiter les uns les autres.",
+    "intro-3": "Notre vision.",
+    "intro-3-sub-heading": "Chez V V&F, notre objectif est de nous établir comme la principale entreprise dans la distribution de légumes asiatiques/indiens de la plus haute qualité et de fruits tropicaux frais. Nous nous efforçons d'atteindre cet objectif grâce à l'innovation continue, une crédibilité inébranlable, la ponctualité et des prix compétitifs, établissant ainsi une nouvelle norme dans l'industrie.",
+    "intro-3-p-1-bold": "Intégrité et éthique :",
+    "intro-3-p-1": "Nous respectons les normes les plus élevées d'intégrité et d'éthique dans tous les aspects de notre activité. Notre engagement envers la transparence et l'honnêteté guide nos interactions avec les clients, les employés et les parties prenantes, favorisant la confiance et les relations à long terme.",
+    "intro-3-p-2-bold": "Orientation client :",
+    "intro-3-p-2": "Nous accordons la priorité à la compréhension et à la satisfaction des besoins uniques de nos clients. Avec un dévouement inébranlable, nous faisons tout notre possible pour fournir des produits et des services de haute qualité qui non seulement répondent, mais dépassent leurs attentes, en garantissant leur satisfaction et leur fidélité.",
+    "intro-3-p-3-bold": "Travail d'équipe et collaboration :",
+    "intro-3-p-3": "Nous croyons fermement au pouvoir du travail d'équipe et de la collaboration. En travaillant harmonieusement ensemble, nous exploitons les forces collectives et l'expertise de notre équipe pour atteindre nos objectifs communs. Grâce à une collaboration efficace, nous favorisons l'innovation, l'efficacité et le succès pour notre entreprise et nos clients."
+  },
+  "our-services": {
+    "title": "Nos services",
+    "pm": {
+      "title": "Gestion immobilière",
+      "body": "Nous aidons nos clients dans la gestion immobilière en fournissant des services complets pour maximiser la valeur et la rentabilité de leur propriété. De la commercialisation de la propriété à la recherche de locataires appropriés et à la finalisation des accords de location, nous gérons l'ensemble du processus de manière efficace. De plus, nous proposons une expertise en gestion logistique, garantissant des opérations et une maintenance fluides grâce à notre réseau de partenaires de confiance. Avec notre soutien dévoué, vous pouvez nous confier votre propriété en sachant que nous fournirons des solutions de gestion exceptionnelles adaptées à vos besoins."
+    },
+    "f.v": {
+      "title": "Fruits et légumes",
+      "body": "Dans le domaine des fruits et légumes, nous excellons dans l'assistance à nos clients pour la commercialisation de leurs produits, la facilitation de la découverte des acheteurs et la réalisation de ventes réussies. De plus, nous apportons un soutien précieux dans la gestion des besoins logistiques en exploitant notre vaste réseau de partenaires fiables. Avec nos services complets, vous pouvez naviguer en toute confiance sur le marché, optimiser vos opérations et obtenir des résultats favorables pour votre entreprise."
+    },
+    "f.f": {
+      "title": "Aliments surgelés",
+      "body": "Dans le domaine des aliments surgelés, nous sommes dédiés à l'utilisation de technologies de pointe et au respect des normes de l'industrie pour répondre aux besoins spécialisés de ce secteur. Notre expertise s'étend à un large éventail d'aliments surgelés, nous veillons à respecter les normes de qualité les plus élevées tout en maintenant l'intégrité des produits. Avec notre engagement envers l'excellence, vous pouvez nous faire confiance pour fournir des solutions exceptionnelles d'aliments surgelés qui répondent à vos besoins spécifiques."
+    },
+    "s.f": {
+      "title": "Produits de la mer et viandes",
+      "body": "Dans le domaine des produits de la mer et des viandes, nous sommes spécialisés dans le commerce de sélections haut de gamme, fraîches, sûres et propres. Notre engagement envers la qualité garantit que nous livrons les meilleurs produits de la mer et de viandes disponibles sur le marché. Faites-nous confiance pour vous fournir une qualité exceptionnelle, vous permettant de savourer le meilleur que la mer et la terre ont à offrir."
+    },
+    "logistics": {
+      "title": "Logistique",
+      "body": "Dans le domaine de la logistique, nous sommes votre partenaire de confiance pour la livraison d'une large gamme de marchandises dans le monde entier. Des produits alimentaires et chimiques aux produits d'ingénierie, documents, vêtements, pétrole, médicaments et diverses autres marchandises, nous proposons des solutions logistiques complètes adaptées à vos besoins spécifiques. Avec notre expertise et notre réseau mondial, vous pouvez compter sur nous pour assurer un transport sans faille et efficace de vos marchandises vers n'importe quelle destination à travers le monde."
+    },
+    "f.t": {
+      "title": "Commerce de tissus",
+      "body": "Dans le domaine du commerce de tissus, nous nous spécialisons dans l'importation et l'exportation de tissus et de produits textiles, englobant un large éventail de matières premières et de produits finis. Notre expertise réside dans la facilitation de transactions sans heurts et la fourniture de solutions complètes pour répondre à vos besoins en matière d'approvisionnement et de commerce de tissus. Que vous ayez besoin de matières premières de haute qualité ou de produits textiles finis, nous avons ce qu'il vous faut, en vous garantissant des services de commerce de tissus fiables et efficaces."
+    },
+    "h.m": {
+      "title": "Machines lourdes",
+      "body": "Dans le domaine des machines lourdes, nous sommes votre partenaire de confiance pour l'achat, la vente et la location de machines lourdes de haute qualité. Grâce à notre vaste réseau de fournisseurs et d'acheteurs, nous facilitons les transactions fructueuses, en veillant à ce que vos besoins en matière de machines lourdes soient satisfaits de manière fiable et efficiente. Que vous soyez à la recherche de machines de construction, de matériel agricole ou d'équipement industriel, nous avons l'expertise et les ressources nécessaires pour vous fournir les meilleures options du marché."
+    }
+  },
+  "p-title": "Les fruits et légumes, la gestion immobilière, les produits surgelés, les machines lourdes, la logistique et le commerce de tissus sont notre principal domaine d'activité. Nous avons une solide empreinte dans ces industries, ce qui nous permet d'avoir un impact même avec des capitaux limités.",
+  "contact-us": "Contactez-nous",
+  "contact-section": {
+    "title": "Envoyez-nous votre demande ou dites simplement bonjour !",
+    "name": "Nom",
+    "email": "Votre email",
+    "subject": "Sujet",
+    "message": "Message",
+    "send-message": "Envoyer le message",
+    "location": "Emplacement",
+    "email-us": "Email",
+    "call": "Appel",
+    "open-hr": "Heures d'ouverture"
+  },
+  "footer": {
+    "privacy-policy": "Politique de confidentialité",
+    "terms-conditions": "Termes et conditions",
+    "all-rights": "Tous droits réservés."
+  },
+  "loading": "Chargement",
+  "message-sent": "Votre message a été envoyé. Merci!",
+  "b-o": "Aperçu de l'entreprise"
+}

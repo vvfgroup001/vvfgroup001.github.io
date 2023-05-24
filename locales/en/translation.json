@@ -1,0 +1,87 @@
+{
+  "home": "Home",
+  "about": "About",
+  "services": "Services",
+  "portfolio": "Portfolio",
+  "contact": "Contact",
+  "welcome": "Welcome",
+  "welcome-text": "Step into our vibrant community, where your ideas blossom and growth knows no bounds. Join us today and embark on a remarkable journey of collaboration, innovation, and success.",
+  "trading-expertise": "Trading Expertise",
+  "friendly-customer": "Friendly Customer service",
+  "pt": "Personal Team",
+  "pm": "Property Management",
+  "lang-select": "Language Selection",
+  "about-us": {
+    "title": "About Us",
+    "about-us-intro": "As your valued business collaborator, V V&F operates on a global scale, specializing in a wide range of Heavy Machinery, Fabrics, and Foodstuffs, including Fruits, Vegetables, Frozen Products and Property Management. Our primary objective is to facilitate the discovery of trade requirements that seamlessly align with your business objectives. Through our extensive network, we establish connections with companies that enable you to fully leverage the numerous benefits offered by our exceptional services.",
+    "sub-title": "Catering to approximate 70+ Countries across Asia & Europe",
+    "intro-2": "Our Mission.",
+    "intro-2-sub-heading": "At V V&F, we are dedicated to importing the finest Asian/Indian vegetables and tropical fresh fruits, ensuring our clients' demands are met while generating sustainable benefits for them, our team, and our associates. Our commitment to quality drives us to source products and produce from trusted suppliers, maintaining optimal standards of quality and hygiene throughout the entire process, from cultivation to export.",
+    "intro-2-p-1": "Providing consistent supply and timely delivery to meet customer requirements.",
+    "intro-2-p-2": "Responding to customer needs with a personal and flexible service.",
+    "intro-2-p-3": "Emphasizing credibility, confidence, and trust in both directions with customers.",
+    "intro-2-p-4": "Going above and beyond to ensure customer satisfaction in terms of products and treatment.",
+    "intro-1": "Our Values.",
+    "intro-1-sub-heading": "At V V&F, customer satisfaction is at the core of our continuous improvement and innovation efforts. We are dedicated to placing our customers first, creating a warm and attentive environment where exceptional food and service intersect seamlessly.",
+    "intro-sub-heading-1": "Through strategic decision-making, we offer high-quality products at competitive prices, ensuring our customers' desires are met promptly and efficiently. Our values transcend mere words; they serve as our guiding principles, shaping our vision, measuring our success, and defining how we interact and treat one another.",
+    "intro-3": "Our Vision.",
+    "intro-3-sub-heading": "At V V&F, our goal is to establish ourselves as the foremost company in the distribution of the highest quality Asian/Indian vegetables and tropical fresh fruits. We strive to achieve this through continuous innovation, unwavering credibility, punctuality, and competitive pricing, setting a new standard in the industry.",
+    "intro-3-p-1-bold": "Integrity and Ethics:",
+    "intro-3-p-1": "We uphold the utmost standards of integrity and ethics in every aspect of our business. Our commitment to transparency and honesty guides our interactions with customers, employees, and stakeholders, fostering trust and long-term relationships.",
+    "intro-3-p-2-bold": "Customer Focus:",
+    "intro-3-p-2": "We prioritize understanding and fulfilling the unique needs of our customers. With unwavering dedication, we go above and beyond to deliver high-quality products and services that not only meet but exceed their expectations, ensuring their satisfaction and loyalty.",
+    "intro-3-p-3-bold": "Teamwork and Collaboration:",
+    "intro-3-p-3": "We firmly believe in the power of teamwork and collaboration. By working together harmoniously, we leverage the collective strengths and expertise of our team to achieve our shared goals. Through effective collaboration, we drive innovation, efficiency, and success for our company and clients alike."
+  },
+  "our-services": {
+    "title": "Our Services",
+    "pm": {
+      "title": "Property Management",
+      "body": "We assist our clients in property management by providing comprehensive services to maximize their property's value and profitability. From marketing the property to finding suitable tenants and finalizing lease agreements, we handle the entire process efficiently. Additionally, we offer expertise in logistics management, ensuring seamless operations and maintenance through our trusted network of partners. With our dedicated support, you can entrust your property to us, knowing that we will deliver exceptional management solutions tailored to your needs."
+    },
+    "f.v": {
+      "title": "Fruits & Vegetables",
+      "body": "In the realm of fruits and vegetables, we excel in assisting our clients with marketing their products, facilitating buyer discovery, and facilitating successful sales. Furthermore, we provide valuable support in managing logistics requirements by leveraging our extensive network of reliable partners. With our comprehensive services, you can confidently navigate the market, optimize your operations, and achieve favorable outcomes for your business."
+    },
+    "f.f": {
+      "title": "Frozen Food",
+      "body": "In the domain of frozen food, we are dedicated to utilizing cutting-edge technology and adhering to industry standards to fulfill specialized requirements within this sector. Our expertise extends to a wide range of frozen edibles, ensuring that we meet the highest quality standards while maintaining product integrity. With our commitment to excellence, you can trust us to deliver exceptional frozen food solutions that meet your specific needs."
+    },
+    "s.f": {
+      "title": "Sea Food & Meat Products",
+      "body": "In the realm of seafood and meat products, we specialize in trading premium selections that are fresh, safe, and clean. Our commitment to quality ensures that we deliver the finest seafood and meat products available in the market. Trust us to provide you with exceptional quality, allowing you to savor the best that the sea and land have to offer."
+    },
+    "logistics": {
+      "title": "Logistics",
+      "body": "In the realm of logistics, we are your trusted partner in delivering a diverse range of goods worldwide. From foodstuffs and chemicals to engineering goods, documents, garments, oil, medicine, and various other commodities, we offer comprehensive logistics solutions tailored to your specific needs. With our expertise and global network, you can rely on us to ensure seamless and efficient transportation of your goods to any destination across the globe."
+    },
+    "f.t": {
+      "title": "Fabric Trading",
+      "body": "In the domain of fabric trading, we specialize in both import and export of fabrics and textile products, encompassing a wide range of raw materials and finished goods. Our expertise lies in facilitating seamless transactions and providing comprehensive solutions to meet your fabric sourcing and trading needs. Whether you require high-quality raw materials or finished textile products, we have you covered, ensuring reliable and efficient fabric trading services."
+    },
+    "h.m": {
+      "title": "Heavy Machinery",
+      "body": "In the realm of heavy machinery, we cater to a diverse range of industries with specialized requirements, including construction, farming, forestry, material handling, transportation, and more. Our extensive range of heavy machinery products and solutions are designed to meet the unique needs of each industry, ensuring optimal performance and efficiency. Whether you require machinery for construction projects, agricultural operations, forestry activities, or material handling tasks, we have the expertise and resources to provide you with reliable and high-quality heavy machinery solutions."
+    }
+  },
+  "p-title": "Fruits & Vegetables, Property Management, Frozen Food, Heavy Machinery, Logistics and Fabric Trading are our main focus. We have a strong foothold in these industries; therefore, we can make an impact even with limited capital.",
+  "contact-us": "Contact Us",
+  "contact-section": {
+    "title": "Drop us your enquiry or Just say Hello!",
+    "name": "Name",
+    "email": "Your email",
+    "subject": "Subject",
+    "message": "Message",
+    "send-message": "Send message",
+    "location": "Location",
+    "email-us": "Email",
+    "call": "Call",
+    "open-hr": "Open Hours"
+  },
+  "footer": {
+    "all-rights": "All rights reserved.."
+  },
+  "loading": "Loading",
+  "message-sent": "Your message has been sent. Thank you!",
+  "b-o": "Business overview"
+}

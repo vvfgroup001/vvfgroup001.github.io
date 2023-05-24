@@ -1,0 +1,86 @@
+{
+  "home": "Startseite",
+  "about": "Über uns",
+  "services": "Dienstleistungen",
+  "portfolio": "Portfolio",
+  "contact": "Kontakt",
+  "welcome": "Willkommen",
+  "welcome-text": "Treten Sie unserer dynamischen Gemeinschaft bei, in der Ihre Ideen gedeihen und das Wachstum keine Grenzen kennt. Schließen Sie sich uns noch heute an und begeben Sie sich auf eine bemerkenswerte Reise der Zusammenarbeit, Innovation und des Erfolgs.",
+  "trading-expertise": "Handelsexpertise",
+  "friendly-customer": "Freundlicher Kundenservice",
+  "pt": "Persönliches Team",
+  "pm": "Immobilienverwaltung",
+  "lang-select": "Sprachauswahl",
+  "about-us": {
+    "title": "Über uns",
+    "about-us-intro": "Als Ihr wertvoller Geschäftspartner agiert V V&F global und ist auf eine breite Palette von schweren Maschinen, Textilien und Lebensmitteln spezialisiert, einschließlich Obst, Gemüse, Tiefkühlkost und Immobilienverwaltung. Unser Hauptziel ist es, die Anforderungen zu erleichtern, die perfekt mit Ihren Geschäftszielen übereinstimmen. Durch unser umfangreiches Netzwerk knüpfen wir Verbindungen zu Unternehmen, die Ihnen ermöglichen, von den vielen Vorteilen unserer außergewöhnlichen Dienstleistungen optimal zu profitieren.",
+    "sub-title": "Wir bedienen etwa 70+ Länder in Asien und Europa",
+    "intro-2": "Unsere Mission.",
+    "intro-2-sub-heading": "Bei V V&F verpflichten wir uns, die besten asiatischen/indischen Gemüse und frischen tropischen Früchte zu importieren und gleichzeitig die Anforderungen unserer Kunden zu erfüllen, um nachhaltige Vorteile für sie, unser Team und unsere Partner zu generieren. Unsere Qualitätsverpflichtung treibt uns dazu an, Produkte und Waren von vertrauenswürdigen Lieferanten zu beziehen und optimale Qualitäts- und Hygienestandards während des gesamten Prozesses von Anbau bis Export aufrechtzuerhalten.",
+    "intro-2-p-1": "Bereitstellung einer kontinuierlichen Versorgung und pünktlichen Lieferung, um Kundenanforderungen zu erfüllen",
+    "intro-2-p-2": "Kultivierung langfristiger Beziehungen zu unseren Kunden und Partnern",
+    "intro-2-p-3": "Verfolgung von Innovationen und Marktrends, um konkurrenzfähig zu bleiben",
+    "intro-sub-heading-1": "Durch strategische Entscheidungsfindung bieten wir hochwertige Produkte zu wettbewerbsfähigen Preisen an und stellen sicher, dass die Wünsche unserer Kunden schnell und effizient erfüllt werden. Unsere Werte sind mehr als nur Worte; sie dienen als Leitprinzipien, die unsere Vision formen, unseren Erfolg messen und unsere Art der Interaktion und Behandlung anderer bestimmen.",
+    "intro-3": "Unsere Vision.",
+    "intro-3-sub-heading": "Bei V V&F streben wir danach, uns als führendes Unternehmen im Vertrieb von hochwertigem asiatischem/indischem Gemüse und frischen tropischen Früchten zu etablieren. Wir streben dieses Ziel durch kontinuierliche Innovation, unerschütterliche Glaubwürdigkeit, Pünktlichkeit und wettbewerbsfähige Preise an und setzen damit einen neuen Maßstab in der Branche.",
+    "intro-3-p-1-bold": "Integrität und Ethik:",
+    "intro-3-p-1": "Wir halten die höchsten Standards an Integrität und Ethik in allen Bereichen unseres Geschäfts ein. Unser Engagement für Transparenz und Ehrlichkeit leitet unsere Interaktionen mit Kunden, Mitarbeitern und Stakeholdern und fördert Vertrauen und langfristige Beziehungen.",
+    "intro-3-p-2-bold": "Kundenorientierung:",
+    "intro-3-p-2": "Wir stellen die Priorität auf das Verständnis und die Erfüllung der einzigartigen Bedürfnisse unserer Kunden. Mit unerschütterlichem Engagement setzen wir alles daran, hochwertige Produkte und Dienstleistungen bereitzustellen, die nicht nur ihre Erwartungen erfüllen, sondern übertreffen, um ihre Zufriedenheit und Treue zu gewährleisten.",
+    "intro-3-p-3-bold": "Teamarbeit und Zusammenarbeit:",
+    "intro-3-p-3": "Wir glauben fest an die Kraft von Teamarbeit und Zusammenarbeit. Durch harmonisches Zusammenarbeiten nutzen wir die kollektiven Stärken und Fachkenntnisse unseres Teams, um gemeinsame Ziele zu erreichen. Durch effektive Zusammenarbeit fördern wir Innovation, Effizienz und Erfolg für unser Unternehmen und unsere Kunden."
+  },
+  "our-services": {
+    "title": "Unsere Dienstleistungen",
+    "pm": {
+      "title": "Immobilienverwaltung",
+      "body": "Wir unterstützen unsere Kunden bei der Immobilienverwaltung, indem wir umfassende Dienstleistungen bereitstellen, um den Wert und die Rentabilität ihrer Immobilien zu maximieren. Vom Marketing der Immobilie über die Suche nach geeigneten Mietern bis hin zum Abschluss von Mietverträgen managen wir den gesamten Prozess effizient. Darüber hinaus bieten wir Expertise in der Logistikverwaltung, Instandhaltung und Verwaltung von Gewerbe- und Wohnimmobilien an."
+    },
+    "f.v": {
+      "title": "Obst und Gemüse",
+      "body": "Im Bereich Obst und Gemüse sind wir Experten in der Unterstützung unserer Kunden bei der Vermarktung ihrer Produkte, der Erleichterung der Entdeckung von Käufern und dem erfolgreichen Verkauf. Darüber hinaus bieten wir wertvolle Unterstützung bei der Bewältigung logistischer Anforderungen durch Nutzung unseres umfangreichen Netzwerks zuverlässiger Partner. Mit unseren umfassenden Dienstleistungen können Sie zuversichtlich auf dem Markt navigieren, Ihre Betriebsabläufe optimieren und positive Ergebnisse für Ihr Unternehmen erzielen."
+    },
+    "f.f": {
+      "title": "Tiefkühlkost",
+      "body": "Im Bereich Tiefkühlkost konzentrieren wir uns darauf, modernste Technologien zu nutzen und den Branchenstandards gerecht zu werden, um den spezialisierten Anforderungen dieses Sektors gerecht zu werden. Unser Fachwissen erstreckt sich auf eine Vielzahl von Tiefkühlkostprodukten, und wir achten stets auf höchste Qualitätsstandards, während wir die Integrität der Produkte gewährleisten. Vertrauen Sie auf unsere Verpflichtung zur Exzellenz, um herausragende Tiefkühlkostlösungen zu liefern, die Ihren spezifischen Anforderungen entsprechen."
+    },
+    "s.f": {
+      "title": "Meeresfrüchte und Fleisch",
+      "body": "Im Bereich Meeresfrüchte und Fleisch sind wir spezialisiert auf den Handel mit hochwertigen, frischen, sicheren und sauberen Produkten. Unser Engagement für Qualität stellt sicher, dass wir die besten Meeresfrüchte und Fleischprodukte auf dem Markt liefern. Verlassen Sie sich auf uns, um Ihnen außergewöhnliche Qualität zu bieten und das Beste zu genießen, was das Meer und das Land zu bieten haben."
+    },
+    "logistics": {
+      "title": "Logistik",
+      "body": "Im Bereich Logistik sind wir Ihr vertrauenswürdiger Partner für die Lieferung einer Vielzahl von Waren weltweit. Von Lebensmitteln und Chemikalien über Ingenieurprodukte, Dokumente, Kleidung, Öl, Medikamente bis hin zu verschiedenen anderen Gütern bieten wir maßgeschneiderte Logistiklösungen, die Ihren spezifischen Anforderungen entsprechen. Mit unserer Expertise und unserem globalen Netzwerk können Sie sich darauf verlassen, dass Ihre Waren nahtlos und effizient an jeden beliebigen Ort weltweit transportiert werden."
+    },
+    "f.t": {
+      "title": "Textilhandel",
+      "body": "Im Bereich des Textilhandels sind wir auf den Import und Export von Stoffen und Textilprodukten spezialisiert, die eine breite Palette von Rohstoffen und Fertigprodukten umfassen. Unsere Expertise liegt in der reibungslosen Abwicklung von Transaktionen und der Bereitstellung umfassender Lösungen, um Ihren Bedarf an Textilbeschaffung und -handel zu decken. Egal, ob Sie hochwertige Rohstoffe oder maßgeschneiderte Textilprodukte suchen, wir sind bestrebt, Ihnen die besten Optionen zu bieten und eine erfolgreiche Zusammenarbeit sicherzustellen."
+    },
+    "h.m": {
+      "title": "Schwere Maschinen",
+      "body": "Im Bereich der schweren Maschinen sind wir Ihr vertrauenswürdiger Partner für den Kauf, Verkauf und die Vermietung hochwertiger schwerer Maschinen. Mit unserem umfangreichen Netzwerk von Lieferanten und Käufern erleichtern wir erfolgreiche Transaktionen und stellen sicher, dass Ihre Anforderungen an schwere Maschinen zuverlässig und effizient erfüllt werden. Egal, ob Sie nach Baumaschinen, landwirtschaftlicher Ausrüstung oder industrieller Maschinen suchen, wir haben das Know-how und die Ressourcen, um Ihnen die besten Optionen auf dem Markt anzubieten."
+    }
+  },
+  "p-title": "Obst und Gemüse, Immobilienmanagement, Tiefkühlkost, Schwere Maschinen, Logistik und Stoffhandel sind unsere Hauptbereiche. Wir haben in diesen Branchen eine starke Position, daher können wir auch mit begrenztem Kapital einen Einfluss erzielen.",
+  "contact-us": "Kontaktieren Sie uns",
+  "contact-section": {
+    "title": "Schicken Sie uns Ihre Anfrage oder sagen Sie einfach Hallo!",
+    "name": "Name",
+    "email": "Ihre E-Mail",
+    "subject": "Betreff",
+    "message": "Nachricht",
+    "send-message": "Nachricht senden",
+    "location": "Standort",
+    "email-us": "E-Mail",
+    "call": "Anrufen",
+    "open-hr": "Öffnungszeiten"
+  },
+  "footer": {
+    "privacy-policy": "Datenschutzbestimmungen",
+    "terms-conditions": "Geschäftsbedingungen",
+    "all-rights": "Alle Rechte vorbehalten."
+  },
+  "loading": "Laden",
+  "message-sent": "Ihre Nachricht wurde gesendet. Vielen Dank!",
+  "b-o": "Unternehmensübersicht"
+}
